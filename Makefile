@@ -38,6 +38,9 @@ DATA		:=	data
 INCLUDES	:=	include
 GRAPHICS	:=	gfx
 GFXBUILD	:=	$(BUILD)
+APP_AUTHOR  :=  github@nuclearcodecat
+APP_DESCRIPTION := shows touch position on the bottom screen
+APP_TITLE   :=  touch position
 #ROMFS		:=	romfs
 #GFXBUILD	:=	$(ROMFS)/gfx
 
