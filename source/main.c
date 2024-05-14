@@ -6,8 +6,8 @@
 
 
 // n3dsxl uses portrait screens
-#define SCR_TOP_W 240
-#define SCR_TOP_H 400
+// #define SCR_TOP_W 240
+// #define SCR_TOP_H 400
 #define SCR_BOTTOM_W 240
 #define SCR_BOTTOM_H 320
 
